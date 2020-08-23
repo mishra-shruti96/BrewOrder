@@ -35,5 +35,6 @@
         </p>
 
 
-- Logout anytime using the <i>"logout"</i> option. 
+- Logout anytime using the <i>"logout"</i> option.<br><br>
 
+# Go ahead! Order your Coffee!
