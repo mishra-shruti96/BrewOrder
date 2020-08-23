@@ -2,7 +2,8 @@
 <img src="https://venturebeat.com/wp-content/uploads/2019/02/google-flutter-logo-white.png?fit=1600%2C800&strip=all" width="400" height="200" />
 
 
-<b>Brew Order is a cross-platform Mobile Application which takes brew orders based on user preferences.</b>
+<b>Brew Order is a Mobile Application which takes brew orders based on user preferences. <a href="https://drive.google.com/file/d/1vnelIUCMlUsmeJFLUuDVVCOoa_GVTHDD/view?usp=sharing">(Video Demonstration Link)</a>
+</b>
 
 # Software and Backend
 - Flutter
@@ -30,6 +31,3 @@
 
 - Logout anytime using the <i>"logout"</i> option. 
 
-
-# Video Demonstration Link
-https://drive.google.com/file/d/1vnelIUCMlUsmeJFLUuDVVCOoa_GVTHDD/view?usp=sharing
