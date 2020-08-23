@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80868533525",
+    "firebase_url": "https://the-brew-order.firebaseio.com",
+    "project_id": "the-brew-order",
+    "storage_bucket": "the-brew-order.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80868533525:android:2f9bc036b433851569351c",
+        "android_client_info": {
+          "package_name": "com.example.brew_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80868533525-4161rc6fpt3vi2a8af2lq9667i4441m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCACarx24hBmzRu79hybh8lkFPV_biQAyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80868533525-4161rc6fpt3vi2a8af2lq9667i4441m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
