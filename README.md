@@ -28,6 +28,12 @@
 
 - User can change brew preferences using the <i>"settings"</i> button on top right.
 <img src="https://github.com/mishra-shruti96/BrewOrder/blob/master/Demonstration%20Images%20and%20Videos/Brew-order-update.jpg" width="200" height="400" />
+        <p>    
+            - Name of the customer <i>(feature : textfield)</i><br>
+            - number of sugar <i>(feature: menu list)</i><br>
+            - Specify the color of the coffee, i.e., how dark the brew should be (feature : slidder)</i><br><br>
+        </p>
+
 
 - Logout anytime using the <i>"logout"</i> option. 
 
